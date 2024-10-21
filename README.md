@@ -23,12 +23,6 @@ Join our Telegram and Discord servers for suppork, to ask questions, recommend f
 [![Telegram - Group](https://img.shields.io/badge/pysilon-community-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8razFyklyFw2OWU0)
 [![Discord](https://img.shields.io/discord/1169041829631639662?style=for-the-badge&color=7289da&logo=discord&logoColor=white)](https://discord.gg/JKfNcsdagF)
 
-## Telegram Channel
-
-Subscribe to our Telegram channels to always stay up-to-date with the most recent updates and interact with the community!
-
-[![Telegram - Channel](https://img.shields.io/badge/pysilon-announcements-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pysilon)
-
 --------------------
 
 # Table of contents
