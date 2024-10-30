@@ -5,6 +5,7 @@
 <p align='center'><img src="https://user-images.githubusercontent.com/44233157/205148071-ed0f810e-be71-4b18-8c6b-94e838ebda5d.png" width=500 /></p>
 
 `Advanced RAT malware written in Python, fully controllable through Discord with dedicated GUI builder to make preparation easier.`
+`Dont download or buy from anywhere else except this repository. Especially not from someone claiming they got an advanced/pro version on telegram or discord!`
 
 </span>
 
@@ -18,7 +19,7 @@ Read our extensive Wiki for more information and detailed building instructions.
 
 ## PySilon Community
 
-Join our Telegram and Discord servers for suppork, to ask questions, recommend features and talk to like minded people!
+Join our Telegram and Discord servers for support, to ask questions, recommend features and talk to like minded people!
 
 [![Telegram - Group](https://img.shields.io/badge/pysilon-community-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8razFyklyFw2OWU0)
 
