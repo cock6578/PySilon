@@ -20,3 +20,4 @@ compiling_command.txt
 build.bat
 disabled_processes.psln
 working_directory.json
+supabase/*/venv
