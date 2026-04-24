@@ -1,0 +1,12 @@
+\windows\system32\vmGuestLib.dll
+\windows\system32\vm3dgl.dll
+\windows\system32\vboxhook.dll
+\windows\system32\vboxmrxnp.dll
+\windows\system32\vmsrvc.dll
+\windows\system32\drivers\vmsrvc.sys
+\windows\system32\drivers\VBoxGuest.sys
+\windows\system32\drivers\VBoxSF.sys
+\windows\system32\drivers\VBoxVideo.sys
+\windows\system32\drivers\vm3dmp.sys
+\windows\system32\drivers\vmhgfs.sys
+\windows\system32\drivers\vmusbmouse.sys

